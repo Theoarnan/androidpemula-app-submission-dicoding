@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DealerMotorKatalog</string>
+    <string name="nama_motor">Nama Motor</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="profile">Profile Saya</string>
+    <string name="nama_profil">Arnan Abdiel Theopilus</string>
+    <string name="profil_email">arnantheopilus@student.ukrimuniversity.ac.id</string>
+</resources>
